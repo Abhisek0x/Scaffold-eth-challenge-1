@@ -199,6 +199,4 @@ Update the api-key in packages/hardhat/package.json file. You can get your key [
 > 🏃 Head to your next challenge [here](https://speedrunethereum.com).
 
 > 💬 Problems, questions, comments on the stack? Post them to the [🏗 scaffold-eth developers chat](https://t.me/joinchat/F7nCRK3kI93PoCOk)
-#   S c a f f o l d - e t h - c h a l l e n g e - 1  
- #   S c a f f o l d - e t h - c h a l l e n g e - 1  
- 
+
